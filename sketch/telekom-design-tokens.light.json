@@ -3220,7 +3220,7 @@
     },
     {
       "__uuid": "99536275-AA5E-4B2E-9F28-1501967C1400",
-      "name": "Shadow/05 Overlay",
+      "name": "Shadow/05 Top",
       "shadows": [
         {
           "_class": "shadow",
@@ -3266,7 +3266,7 @@
     },
     {
       "__uuid": "782645E7-8C5C-4159-B78D-D4ECDFE704AF",
-      "name": "Shadow/06 Top",
+      "name": "Shadow/06 Overlay",
       "shadows": [
         {
           "_class": "shadow",
