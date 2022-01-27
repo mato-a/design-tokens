@@ -365,7 +365,7 @@
       }
     },
     {
-      "__uuid": "@Arturo",
+      "__uuid": "C25CD92C-71DF-4D26-BC0D-79D5F5F04E7B",
       "_class": "swatch",
       "do_objectID": "",
       "name": "04 UI/01 Base",
@@ -2728,8 +2728,8 @@
   "layerStyles": [
     {
       "__uuid": "AE3B9B43-0FCE-4920-AC51-E967DA59252B",
-      "name": "01 Flat/01 Standard",
-      "elevations": [
+      "name": "Shadow/01 Flat/01 Standard",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -2754,8 +2754,8 @@
     },
     {
       "__uuid": "BB561DF9-041F-421F-BE83-725077D90BD2",
-      "name": "01 Flat/02 Hover",
-      "elevations": [
+      "name": "Shadow/01 Flat/02 Hover",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -2800,8 +2800,8 @@
     },
     {
       "__uuid": "0D8471AD-EC44-4462-8D3A-BDA4F2BF4529",
-      "name": "01 Flat/03 Pressed",
-      "elevations": [
+      "name": "Shadow/01 Flat/03 Pressed",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -2826,8 +2826,8 @@
     },
     {
       "__uuid": "BB5F33A3-CACF-4104-802B-C194280E1775",
-      "name": "02 Resting/01 Standard",
-      "elevations": [
+      "name": "Shadow/02 Resting/01 Standard",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -2872,8 +2872,8 @@
     },
     {
       "__uuid": "5632523D-6F06-449B-91B0-1B4D6943BDF1",
-      "name": "02 Resting/02 Hover",
-      "elevations": [
+      "name": "Shadow/02 Resting/02 Hover",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -2918,8 +2918,8 @@
     },
     {
       "__uuid": "9CD207ED-D881-4A77-9545-467B90822BD4",
-      "name": "02 Resting/03 Pressed",
-      "elevations": [
+      "name": "Shadow/02 Resting/03 Pressed",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -2944,8 +2944,8 @@
     },
     {
       "__uuid": "913A5E04-9E52-4165-B310-2B563B5BB968",
-      "name": "03 Raised/01 Standard",
-      "elevations": [
+      "name": "Shadow/03 Raised/01 Standard",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -2990,8 +2990,8 @@
     },
     {
       "__uuid": "7CAA91DC-CEED-4D3B-8536-7F95260259A1",
-      "name": "03 Raised/02 Hover",
-      "elevations": [
+      "name": "Shadow/03 Raised/02 Hover",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3036,8 +3036,8 @@
     },
     {
       "__uuid": "C0569A16-ABD7-400A-AEF8-642D217FF889",
-      "name": "03 Raised/03 Pressed",
-      "elevations": [
+      "name": "Shadow/03 Raised/03 Pressed",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3082,8 +3082,8 @@
     },
     {
       "__uuid": "AB0380DD-7EB4-4573-A380-2BC45D2121DF",
-      "name": "04 Floating/01 Standard",
-      "elevations": [
+      "name": "Shadow/04 Floating/01 Standard",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3128,8 +3128,8 @@
     },
     {
       "__uuid": "BE9F8B9E-5AF5-4A4E-B588-156AE678AD7F",
-      "name": "04 Floating/02 Hover",
-      "elevations": [
+      "name": "Shadow/04 Floating/02 Hover",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3174,8 +3174,8 @@
     },
     {
       "__uuid": "5AD0E529-7DE6-469F-A4C8-2BEF8CBDD15D",
-      "name": "04 Floating/03 Pressed",
-      "elevations": [
+      "name": "Shadow/04 Floating/03 Pressed",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3220,8 +3220,8 @@
     },
     {
       "__uuid": "99536275-AA5E-4B2E-9F28-1501967C1400",
-      "name": "05 Overlay",
-      "elevations": [
+      "name": "Shadow/05 Overlay",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3266,8 +3266,8 @@
     },
     {
       "__uuid": "782645E7-8C5C-4159-B78D-D4ECDFE704AF",
-      "name": "06 Top",
-      "elevations": [
+      "name": "Shadow/06 Top",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3312,8 +3312,8 @@
     },
     {
       "__uuid": "C51047FF-350D-4AA9-AC87-B966697C47F7",
-      "name": "07 App Bar/01 Top/01 Flat",
-      "elevations": [
+      "name": "Shadow/07 App Bar/01 Top/01 Flat",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3358,8 +3358,8 @@
     },
     {
       "__uuid": "AE644FBF-ACDF-4DCD-8128-E5A82452AFF1",
-      "name": "07 App Bar/01 Top/02 Raised",
-      "elevations": [
+      "name": "Shadow/07 App Bar/01 Top/02 Raised",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3384,8 +3384,8 @@
     },
     {
       "__uuid": "CB17ECC5-3F98-4034-9462-E51E230A8871",
-      "name": "07 App Bar/02 Bottom/01 Flat",
-      "elevations": [
+      "name": "Shadow/07 App Bar/02 Bottom/01 Flat",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
@@ -3430,8 +3430,8 @@
     },
     {
       "__uuid": "6660CE8D-2F96-4258-99C4-83FECDD049E0",
-      "name": "07 App Bar/02 Bottom/02 Raised",
-      "elevations": [
+      "name": "Shadow/07 App Bar/02 Bottom/02 Raised",
+      "shadows": [
         {
           "_class": "shadow",
           "isEnabled": true,
