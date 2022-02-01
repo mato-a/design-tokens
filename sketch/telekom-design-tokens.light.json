@@ -352,19 +352,6 @@
       }
     },
     {
-      "__uuid": "7FD51613-E83A-47AA-8A7D-DFF672B521AF",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "03 Primary/04 Subtle",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "0.94118",
-        "blue": "0.97255",
-        "alpha": "1"
-      }
-    },
-    {
       "__uuid": "C25CD92C-71DF-4D26-BC0D-79D5F5F04E7B",
       "_class": "swatch",
       "do_objectID": "",
@@ -2353,8 +2340,39 @@
       }
     },
     {
+      "__uuid": "23BEBB18-0F38-4AF1-AF03-E1A81C6AB5F6",
+      "name": "03 Small Bold",
+      "textStyle": {
+        "_class": "textStyle",
+        "encodedAttributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "textStyleVerticalAlignmentKey": 0,
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TeleNeo-Bold",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          },
+          "kerning": 0
+        },
+        "verticalAlignment": 0
+      }
+    },
+    {
       "__uuid": "C9B0389E-50B8-443A-B57A-6437226F2E54",
-      "name": "03 Caption",
+      "name": "04 Caption",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2384,8 +2402,39 @@
       }
     },
     {
+      "__uuid": "74715D6A-299E-4B2B-8017-313B170F3F26",
+      "name": "05 Caption Bold",
+      "textStyle": {
+        "_class": "textStyle",
+        "encodedAttributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "textStyleVerticalAlignmentKey": 0,
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TeleNeo-Bold",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 19,
+            "minimumLineHeight": 19
+          },
+          "kerning": 0
+        },
+        "verticalAlignment": 0
+      }
+    },
+    {
       "__uuid": "91ECDD79-EEA6-4D39-93CC-361015158FEF",
-      "name": "04 Body",
+      "name": "06 Body",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2416,7 +2465,7 @@
     },
     {
       "__uuid": "130260DA-C045-4CE4-923B-0D5B7A6CCF01",
-      "name": "05 Body Bold",
+      "name": "07 Body Bold",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2446,8 +2495,70 @@
       }
     },
     {
+      "__uuid": "6B1645C6-D53D-40CB-B676-4DB2C26645E1",
+      "name": "08 UI",
+      "textStyle": {
+        "_class": "textStyle",
+        "encodedAttributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "textStyleVerticalAlignmentKey": 0,
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TeleNeo-Medium",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          },
+          "kerning": 0
+        },
+        "verticalAlignment": 0
+      }
+    },
+    {
+      "__uuid": "63992AE0-2315-47E2-ACD9-ADBFC22A8FD4",
+      "name": "09 UI Bold",
+      "textStyle": {
+        "_class": "textStyle",
+        "encodedAttributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "textStyleVerticalAlignmentKey": 0,
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "TeleNeo-Bold",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
+          },
+          "kerning": 0
+        },
+        "verticalAlignment": 0
+      }
+    },
+    {
       "__uuid": "BE8186B1-3F4C-4A9B-916D-B1C059C45037",
-      "name": "06 Callout",
+      "name": "10 Callout",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2478,7 +2589,7 @@
     },
     {
       "__uuid": "219C7C48-AB44-4A4C-8CF0-235965A88DFC",
-      "name": "07 Heading 6",
+      "name": "11 Heading 6",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2509,7 +2620,7 @@
     },
     {
       "__uuid": "9D9544F0-E471-406A-83D2-60C41395F418",
-      "name": "08 Heading 5",
+      "name": "12 Heading 5",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2540,7 +2651,7 @@
     },
     {
       "__uuid": "E311C2AB-93B6-44CE-BD95-BD3216BFA02F",
-      "name": "09 Heading 4",
+      "name": "13 Heading 4",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2571,7 +2682,7 @@
     },
     {
       "__uuid": "7BCC0E57-52DF-441A-974A-2D9EC4CB3CEB",
-      "name": "10 Heading 3",
+      "name": "14 Heading 3",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2602,7 +2713,7 @@
     },
     {
       "__uuid": "C496AE76-7493-4FA5-99F1-F17A3F63114C",
-      "name": "11 Heading 2",
+      "name": "15 Heading 2",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2633,7 +2744,7 @@
     },
     {
       "__uuid": "D68030AA-0788-4944-9B55-6A67A7D90CE6",
-      "name": "12 Heading 1",
+      "name": "16 Heading 1",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2664,7 +2775,7 @@
     },
     {
       "__uuid": "FE1ECB0C-6279-4900-B93B-1E06A11E25D9",
-      "name": "13 Title 2",
+      "name": "17 Title 2",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2695,7 +2806,7 @@
     },
     {
       "__uuid": "95D8FC15-5804-4638-8590-80D8FD5F1B24",
-      "name": "14 Title 1",
+      "name": "18 Title 1",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -3312,7 +3423,7 @@
     },
     {
       "__uuid": "C51047FF-350D-4AA9-AC87-B966697C47F7",
-      "name": "Shadow/07 App Bar/01 Top/01 Flat",
+      "name": "Shadow/07 App Bar/01 Top/01 Raised",
       "shadows": [
         {
           "_class": "shadow",
@@ -3358,7 +3469,7 @@
     },
     {
       "__uuid": "AE644FBF-ACDF-4DCD-8128-E5A82452AFF1",
-      "name": "Shadow/07 App Bar/01 Top/02 Raised",
+      "name": "Shadow/07 App Bar/01 Top/02 Flat",
       "shadows": [
         {
           "_class": "shadow",
@@ -3383,54 +3494,8 @@
       ]
     },
     {
-      "__uuid": "CB17ECC5-3F98-4034-9462-E51E230A8871",
-      "name": "Shadow/07 App Bar/02 Bottom/01 Flat",
-      "shadows": [
-        {
-          "_class": "shadow",
-          "isEnabled": true,
-          "blurRadius": 0,
-          "offsetX": 0,
-          "offsetY": -1,
-          "spread": 0,
-          "color": {
-            "_class": "color",
-            "alpha": 0.05,
-            "blue": "0.00000",
-            "green": "0.00000",
-            "red": "0.00000"
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          }
-        },
-        {
-          "_class": "shadow",
-          "isEnabled": true,
-          "blurRadius": 8,
-          "offsetX": 0,
-          "offsetY": -2,
-          "spread": 0,
-          "color": {
-            "_class": "color",
-            "alpha": 0.05,
-            "blue": "0.00000",
-            "green": "0.00000",
-            "red": "0.00000"
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          }
-        }
-      ]
-    },
-    {
       "__uuid": "6660CE8D-2F96-4258-99C4-83FECDD049E0",
-      "name": "Shadow/07 App Bar/02 Bottom/02 Raised",
+      "name": "Shadow/07 App Bar/02 Bottom/01 Flat",
       "shadows": [
         {
           "_class": "shadow",
