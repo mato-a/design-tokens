@@ -352,49 +352,10 @@
       }
     },
     {
-      "__uuid": "C25CD92C-71DF-4D26-BC0D-79D5F5F04E7B",
+      "__uuid": "D97C6487-0153-4A40-8FA3-0620ECD27D57",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/01 Base",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "1.00000",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "A215F9A2-EB9F-40E9-A883-445ABA0CD28B",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "04 UI/02 Subtle",
-      "value": {
-        "_class": "color",
-        "red": "0.82745",
-        "green": "0.83529",
-        "blue": "0.83922",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "F5195C85-B7E7-4BE8-AE08-91A853CEF6F6",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "04 UI/03 Light",
-      "value": {
-        "_class": "color",
-        "red": "0.72941",
-        "green": "0.73725",
-        "blue": "0.74902",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "C1765454-BA74-4AB0-9D4C-2C3B6CE4C9CA",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "04 UI/04 Regular",
+      "name": "04 UI/01 Standard",
       "value": {
         "_class": "color",
         "red": "0.53725",
@@ -404,10 +365,10 @@
       }
     },
     {
-      "__uuid": "22F2E6E7-7BCE-4D9B-A5DA-8D1372FBBC4F",
+      "__uuid": "EFA2AD5F-DCC0-41D9-8203-AA9F8DF0424F",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/05 Strong",
+      "name": "04 UI/02 Hovered",
       "value": {
         "_class": "color",
         "red": "0.29020",
@@ -417,10 +378,23 @@
       }
     },
     {
-      "__uuid": "8DB0D12D-BDE2-4B29-ADAD-E988FF753948",
+      "__uuid": "4E9D2D7E-3DA9-4A98-BE75-BC12FC9F3767",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/06 Extra Strong",
+      "name": "04 UI/03 Pressed",
+      "value": {
+        "_class": "color",
+        "red": "0.01961",
+        "green": "0.01961",
+        "blue": "0.01961",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "E2833C09-CA0B-4377-8441-1B5984A96DF0",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/04 Active",
       "value": {
         "_class": "color",
         "red": "0.01961",
@@ -433,12 +407,90 @@
       "__uuid": "EE676D75-F367-4A83-A78B-CEEBEBAB9B13",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/07 Disabled",
+      "name": "04 UI/05 Disabled",
       "value": {
         "_class": "color",
         "red": "0.82745",
         "green": "0.83529",
         "blue": "0.83922",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "C25CD92C-71DF-4D26-BC0D-79D5F5F04E7B",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/06 Base",
+      "value": {
+        "_class": "color",
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "A215F9A2-EB9F-40E9-A883-445ABA0CD28B",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/07 Subtle",
+      "value": {
+        "_class": "color",
+        "red": "0.90588",
+        "green": "0.90980",
+        "blue": "0.91373",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "F5195C85-B7E7-4BE8-AE08-91A853CEF6F6",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/08 Light",
+      "value": {
+        "_class": "color",
+        "red": "0.72941",
+        "green": "0.73725",
+        "blue": "0.74902",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "C1765454-BA74-4AB0-9D4C-2C3B6CE4C9CA",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/09 Regular",
+      "value": {
+        "_class": "color",
+        "red": "0.53725",
+        "green": "0.54510",
+        "blue": "0.56078",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "22F2E6E7-7BCE-4D9B-A5DA-8D1372FBBC4F",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/10 Strong",
+      "value": {
+        "_class": "color",
+        "red": "0.29020",
+        "green": "0.29412",
+        "blue": "0.30196",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "8DB0D12D-BDE2-4B29-ADAD-E988FF753948",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/11 Extra Strong",
+      "value": {
+        "_class": "color",
+        "red": "0.01961",
+        "green": "0.01961",
+        "blue": "0.01961",
         "alpha": "1"
       }
     },
