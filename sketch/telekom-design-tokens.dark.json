@@ -358,10 +358,10 @@
       "name": "04 UI/01 Border/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.36471",
-        "green": "0.37255",
-        "blue": "0.38039",
-        "alpha": "1"
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "0.36"
       }
     },
     {
@@ -371,10 +371,10 @@
       "name": "04 UI/01 Border/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.53725",
-        "green": "0.54510",
-        "blue": "0.56078",
-        "alpha": "1"
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "0.54"
       }
     },
     {
@@ -384,10 +384,10 @@
       "name": "04 UI/01 Border/03 Pressed",
       "value": {
         "_class": "color",
-        "red": "0.94118",
-        "green": "0.94510",
-        "blue": "0.94510",
-        "alpha": "1"
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "0.94"
       }
     },
     {
@@ -397,10 +397,10 @@
       "name": "04 UI/01 Border/04 Active",
       "value": {
         "_class": "color",
-        "red": "0.94118",
-        "green": "0.94510",
-        "blue": "0.94510",
-        "alpha": "1"
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "0.94"
       }
     },
     {
@@ -410,10 +410,10 @@
       "name": "04 UI/01 Border/05 Disabled",
       "value": {
         "_class": "color",
-        "red": "0.15294",
-        "green": "0.15294",
-        "blue": "0.16078",
-        "alpha": "1"
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "0.21"
       }
     },
     {
