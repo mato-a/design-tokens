@@ -355,7 +355,7 @@
       "__uuid": "D97C6487-0153-4A40-8FA3-0620ECD27D57",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/01 Standard",
+      "name": "04 UI/01 Border/01 Standard",
       "value": {
         "_class": "color",
         "red": "0.36471",
@@ -368,7 +368,7 @@
       "__uuid": "EFA2AD5F-DCC0-41D9-8203-AA9F8DF0424F",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/02 Hovered",
+      "name": "04 UI/01 Border/02 Hovered",
       "value": {
         "_class": "color",
         "red": "0.53725",
@@ -381,7 +381,7 @@
       "__uuid": "4E9D2D7E-3DA9-4A98-BE75-BC12FC9F3767",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/03 Pressed",
+      "name": "04 UI/01 Border/03 Pressed",
       "value": {
         "_class": "color",
         "red": "0.94118",
@@ -394,7 +394,7 @@
       "__uuid": "E2833C09-CA0B-4377-8441-1B5984A96DF0",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/04 Active",
+      "name": "04 UI/01 Border/04 Active",
       "value": {
         "_class": "color",
         "red": "0.94118",
@@ -404,10 +404,10 @@
       }
     },
     {
-      "__uuid": "EE676D75-F367-4A83-A78B-CEEBEBAB9B13",
+      "__uuid": "2639023F-5436-4C87-AEA9-41C0CDEEFDBC",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/05 Disabled",
+      "name": "04 UI/01 Border/05 Disabled",
       "value": {
         "_class": "color",
         "red": "0.15294",
@@ -417,10 +417,36 @@
       }
     },
     {
+      "__uuid": "8FF3D3FD-DA69-4072-80EC-79FD24B566C4",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/02 Plate/01 Hovered",
+      "value": {
+        "_class": "color",
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "0.14"
+      }
+    },
+    {
+      "__uuid": "E91F8AAF-20D5-4D97-A2FE-D136EF21C19F",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/02 Plate/02 Pressed",
+      "value": {
+        "_class": "color",
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "0.21"
+      }
+    },
+    {
       "__uuid": "C25CD92C-71DF-4D26-BC0D-79D5F5F04E7B",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/06 Base",
+      "name": "04 UI/03 General/01 Base",
       "value": {
         "_class": "color",
         "red": "0.21961",
@@ -433,7 +459,7 @@
       "__uuid": "A215F9A2-EB9F-40E9-A883-445ABA0CD28B",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/07 Subtle",
+      "name": "04 UI/03 General/02 Subtle",
       "value": {
         "_class": "color",
         "red": "0.15294",
@@ -446,7 +472,7 @@
       "__uuid": "F5195C85-B7E7-4BE8-AE08-91A853CEF6F6",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/08 Light",
+      "name": "04 UI/03 General/03 Light",
       "value": {
         "_class": "color",
         "red": "0.21961",
@@ -459,7 +485,7 @@
       "__uuid": "C1765454-BA74-4AB0-9D4C-2C3B6CE4C9CA",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/09 Regular",
+      "name": "04 UI/03 General/04 Regular",
       "value": {
         "_class": "color",
         "red": "0.36471",
@@ -472,7 +498,7 @@
       "__uuid": "22F2E6E7-7BCE-4D9B-A5DA-8D1372FBBC4F",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/10 Strong",
+      "name": "04 UI/03 General/05 Strong",
       "value": {
         "_class": "color",
         "red": "0.53725",
@@ -485,7 +511,7 @@
       "__uuid": "8DB0D12D-BDE2-4B29-ADAD-E988FF753948",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/11 Extra Strong",
+      "name": "04 UI/03 General/06 Extra Strong",
       "value": {
         "_class": "color",
         "red": "0.94118",
