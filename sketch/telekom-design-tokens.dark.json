@@ -521,6 +521,19 @@
       }
     },
     {
+      "__uuid": "C9A9FF5D-D616-45CA-AC0E-128D4F51B841",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "04 UI/03 General/07 Disabled",
+      "value": {
+        "_class": "color",
+        "red": "0.15294",
+        "green": "0.15294",
+        "blue": "0.16078",
+        "alpha": "1"
+      }
+    },
+    {
       "__uuid": "4A27A93C-0638-41D1-B87A-311D96D7D5AF",
       "_class": "swatch",
       "do_objectID": "",
