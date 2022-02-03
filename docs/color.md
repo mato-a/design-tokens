@@ -27,6 +27,16 @@ The `Text & Icon/Link` tokens should be used exclusivly for links and the link u
 
 The `Text & Icon/Primary` tokens are used for text that is interactive but not a normal text link and for text as part of an enabled element. E.g. an active menu item.
 
+### White
+Use `Text & icon/White/Standard` and `Text & icon/White/Additional` if you need a text that stays white in both dark and light mode.
+For example when you have an element that has a black background in both light and dark mode, you would use `Text & icon/White/Standard` for main text and `Text & icon/White/Additional` for additional (grey) text.
+`Text & icon/White/Standard` is also use on the primary color and functional colors that need white text in both modes.
+
+### Black
+Use `Text & icon/Black/Standard` and `Text & icon/Black/Additional` if you need a text that stays black in both dark and light mode.
+For example when you have an element that has a white background in both light and dark mode, you would use `Text & icon/Black/Standard` for main text and `Text & icon/Black/Additional` for additional (grey) text.
+`Text & icon/Black/Standard` is also use on light functional colors like orange that need black text in both modes.
+
 ### Functional
 
 #### Informational, Success, Warning & Danger
@@ -37,12 +47,6 @@ These tokens are for text in specific situations:
 - `Text & icon/Functional/Success` is for text that informs about a success or leads to a confirmatory action like _save_.
 - `Text & icon/Functional/Danger` is for text that informs about an error or a dangerous choice like deleting an account or that leads to a destrutive action like _delete_.
 - `Text & icon/Functional/Warning` is for text that informs about something that be problematic or inconvenient like a planned outage for maintainence.
-
-#### White & Black
-
-The tokens `Text & icon/Functional/White` & `Text & icon/Functional/Black` are the same colors as the standard colors. The difference is that the color will **not** change between light and dark mode.
-This means `Text & icon/Functional/White` is white in light **and** dark mode and `Text & icon/Functional/Black` is black in light **and** dark mode.
-Only use those colors were nessesary, e.g. on functional colors or the primary color.
 
 ### Inverted
 
@@ -73,37 +77,45 @@ The state tokens `hovered` and `pressed` should only be used to visualize these 
 
 `UI` tokens are used for borders, fills and other parts of ui components like buttons, sliders, switches, inputs, etc.
 
-### Base
+### Border
+Use the ui border tokens for component borders only. Make sure to use them only for the defined state. 
+
+### Plate
+Plates are the background colors that appear in component without a background on hover and pressed. For example on a text field or checkbox.
+
+### General
+Use general colors for fills in UI components and aspects that are not covered by the other ui tokens.
+#### Base
 
 The `ui/base` token is used for parts of ui elements that are same / similar in color to the background. For example the knob in a switch or slider.
 It may also be used for other purposes that are not covered by any of the other ui colors.
 
-### Subtle
+#### Subtle
 
 The `ui/subtle` token is mainly used when a background for a ui element is needed that is supposed to have only little contrast to the apps background. It does not fulfill the wacg contrast requirements of 3:1 for ui elements so it should not be used as the only means to visualize a ui element or for important functional aspects.
 It may also be used for other purposes that are not covered by any of the other ui colors.
 
-### Light
+#### Light
 
 The `ui/light` token is mainly used for decorational aspects of ui elements like. It does not fulfill the wacg contrast requirements of 3:1 for ui elements so it should not be used as the only means to visualize a ui element or for important functional aspects.
 It may also be used for other purposes that are not covered by any of the other ui colors.
 
-### Regular
+#### Regular
 
 The `ui/regular` token is used for the main part in many ui elements in the default state. E.g. for the outline of an input field or radio button.
 It may also be used for other purposes that are not covered by any of the other ui colors.
 
-### Strong
+#### Strong
 
 The `ui/strong` token is used for hover effects, e.g. when a radio button is hovered the outlien changes from `ui/regular` to `ui/strong`.
 It may also be used for other purposes that are not covered by any of the other ui colors.
 
-### Extra Strong
+#### Extra Strong
 
 The `ui/extra-strong` token is used for pressed effects and when a very strong contrast is needed, e.g. when a radio button is pressed the outlien changes from `ui/regular` to `ui/extra-strong`.
 It may also be used for other purposes that are not covered by any of the other ui colors.
 
-### Disabled
+#### Disabled
 
 The `ui/disabled` token should be used together with the `Text & icon/Disabled` token to create disabled elements. This token must only be used for disabled elements.
 
