@@ -3,29 +3,30 @@ Colors are categorized into the areas: `text & icon`, `background`, `primary`, `
 
 ## Text & icons
 `Text & icon` tokens should be exclusivly used as text colors and icon colors. Text and icons have very specific contrast needs to fulfill accessibility requirements.
-By using the correct tokens from this category you can be assured that contrasts fulfill the required contrast ratios.
+By combining the correct background and `Text & icon` tokens you can be assure that contrast ratios requirements are fulfill. 
+In the color table you find the accepted combinations with the resulting contrast rating.
 ### Standard
 `Text & icon/Standard` is the main text token used for headlines, copy text and important ui texts & labels.
 
 ### Additional
-`Text & icon/Additional` is used for additional content that should be a bit de-emphasized. It is also used for placeholder texts, some labels or unselected elements.
+`Text & icon/Additional` is used for additional content that should be a bit de-emphasized. It is also used for placeholder texts, labels within text fields or unselected elements.
 
 ### Disabled
-`Text & icon/Disabled` is exclusivly used for text of disabled elements. It does not fulfill the contrast ratio for active text, however for disabled elements it is acceptable to not fulfill the contrast according to [wacg specifications; incidental](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum).
+`Text & icon/Disabled` is exclusivly used for text and icons of disabled elements. It does not fulfill the contrast ratio for active text, however for disabled elements it is acceptable to not fulfill the contrast according to [wacg specifications; incidental](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum).
 
 ### Link
 The `Text & Icon/Link` tokens should be used exclusivly for links and the link underline. Make sure to use the correct tokens for the link states `standard`, `hover`, `visited`, `active`.
 
 ### Primary
-The `Text & Icon/Primary` tokens are used for text that is interactive but not a normal text link and for text as part of an enabled element. E.g. an active menu item.
+The `Text & Icon/Primary` tokens are used for text of specific interactive components like active menu item.
 
 ### Functional
 #### Informational, Success, Warning & Danger
 These tokens are for text in specific situations:
-- `Text & icon/Functional/Informational` is for text that informs about somthing neutral, like an update to the terms of service.
-- `Text & icon/Functional/Success` is for text that informs about a success or leads to a confirmatory action like *save*.
-- `Text & icon/Functional/Danger` is for text that informs about an error or a dangerous choice like deleting an account or that leads to a destrutive action like _delete_.
-- `Text & icon/Functional/Warning` is for text that informs about something that be problematic or inconvenient like a planned outage for maintainence.
+- `Text & icon/Functional/Informational` is for neutral information, like an update of the terms of service.
+- `Text & icon/Functional/Success` is for confirmation messages of successfully performed actions.
+- `Text & icon/Functional/Danger` is for errors or confirmation texts for dangerous choice like deleting an account. It may also be used for destrutive actions like _delete_.
+- `Text & icon/Functional/Warning` is for warning messages about potential problems or inconvenient circumstances like a planned outage for maintainence.
 
 #### White & Black
 The tokens `Text & icon/Functional/White` & `Text & icon/Functional/Black` are the same colors as the standard colors. The difference is that the color will **not** change between light and dark mode.
@@ -33,7 +34,12 @@ This means `Text & icon/Functional/White` is white in light **and** dark mode an
 Only use those colors were nessesary, e.g. on functional colors or the primary color.
 
 ### Inverted
-`Text & icon/Inverted/Standard` & `Text & icon/Inverted/Additional` are the opposite of the `Text & icon/Standard` and `Text & icon/Additional`. This means in light mode, where the text is dark, the inverted text colors are light. And in the dark mode, were the normal text is light, the inverted text colors are dark. This should only be used in special situations, e.g. on `ui/strong` and `ui/extra strong`.
+`Text & icon/Inverted/Standard` & `Text & icon/Inverted/Additional` are the exact opposites of the `Text & icon/Standard` and `Text & icon/Additional`. Their actual color depends on the current mode.
+
+When you are using *light mode* the standard text color is *black*, so the opposite, `Text & icon/Inverted/Standard` is *white*.
+Conversly when you are using *dark mode* the standard text color is *white*, so the opposite, `Text & icon/Inverted/Standard` is *black*.
+
+When do you need the inverted colors? Only in very specific cases. For example when you want to put text on top of `ui/strong` and `ui/extra strong`.
 
 ## Background
 `Background` tokens are used for big background areas on which other components are place.
