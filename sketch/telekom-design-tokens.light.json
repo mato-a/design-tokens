@@ -157,10 +157,62 @@
       }
     },
     {
+      "__uuid": "613A8C78-56D2-4765-8315-BD9D3D67B813",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "01 Text & Icon/07 White/01 Standard",
+      "value": {
+        "_class": "color",
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "5246D73E-177B-4CB2-AF40-8DA352AAD4AA",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "01 Text & Icon/07 White/02 Additional",
+      "value": {
+        "_class": "color",
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
+        "alpha": "0.65"
+      }
+    },
+    {
+      "__uuid": "1F2A1837-8B4E-4500-8D19-6FF2972F0296",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "01 Text & Icon/08 Black/01 Standard",
+      "value": {
+        "_class": "color",
+        "red": "0.00000",
+        "green": "0.00000",
+        "blue": "0.00000",
+        "alpha": "1"
+      }
+    },
+    {
+      "__uuid": "96DB9D0E-6012-472A-A1B2-5FE799987A15",
+      "_class": "swatch",
+      "do_objectID": "",
+      "name": "01 Text & Icon/08 Black/02 Additional",
+      "value": {
+        "_class": "color",
+        "red": "0.00000",
+        "green": "0.00000",
+        "blue": "0.00000",
+        "alpha": "1"
+      }
+    },
+    {
       "__uuid": "98DEC3BE-2EB5-4878-BE85-C6AA5B1BA6BC",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "01 Text & Icon/07 Functional/01 Informational",
+      "name": "01 Text & Icon/09 Functional/01 Informational",
       "value": {
         "_class": "color",
         "red": "0.00000",
@@ -173,7 +225,7 @@
       "__uuid": "DA8E6656-B156-40BE-AF70-E9D3D028BD57",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "01 Text & Icon/07 Functional/02 Success",
+      "name": "01 Text & Icon/09 Functional/02 Success",
       "value": {
         "_class": "color",
         "red": "0.03529",
@@ -186,7 +238,7 @@
       "__uuid": "C68EDDCD-554A-4CD3-8B17-41D5CF3E7078",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "01 Text & Icon/07 Functional/03 Danger",
+      "name": "01 Text & Icon/09 Functional/03 Danger",
       "value": {
         "_class": "color",
         "red": "0.90196",
@@ -199,38 +251,12 @@
       "__uuid": "389C61A4-1DD5-4B4A-885E-70F550C4436A",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "01 Text & Icon/07 Functional/04 Warning",
+      "name": "01 Text & Icon/09 Functional/04 Warning",
       "value": {
         "_class": "color",
         "red": "0.73333",
         "green": "0.32549",
         "blue": "0.07451",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "F9975228-41E0-4D65-9AC3-F1A164A1B08B",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "01 Text & Icon/07 Functional/05 White",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "1.00000",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "1F2A1837-8B4E-4500-8D19-6FF2972F0296",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "01 Text & Icon/07 Functional/06 Black",
-      "value": {
-        "_class": "color",
-        "red": "0.00000",
-        "green": "0.00000",
-        "blue": "0.00000",
         "alpha": "1"
       }
     },
@@ -413,7 +439,7 @@
         "red": "0.00000",
         "green": "0.00000",
         "blue": "0.00000",
-        "alpha": "0.07"
+        "alpha": "0.14"
       }
     },
     {
