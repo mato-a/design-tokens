@@ -85,7 +85,7 @@ It may also be used for other purposes that are not covered by any of the other 
 
 ### Light
 
-The `ui/light` token is mainly used for decorational aspects of ui elements. It does not fulfill the wacg contrast requirements of 3:1 for ui elements so it should not be used as the only means to visualize a ui element or for important functional aspects.
+The `ui/light` token is mainly used for decorational aspects of ui elements like. It does not fulfill the wacg contrast requirements of 3:1 for ui elements so it should not be used as the only means to visualize a ui element or for important functional aspects.
 It may also be used for other purposes that are not covered by any of the other ui colors.
 
 ### Regular
@@ -121,7 +121,7 @@ The `Functional/Informational` tokens are for informative elements like info ban
 
 ### Success
 
-The `Functional/Success` tokens are for success elements like confirmation banners or success states, like an outline for an input field with a valid credit card number.
+The `Functional/Success` tokens are for success elements like confirmation banners or success states, like an outline and checkmark for an input field with a valid credit card number.
 
 ### Danger
 
