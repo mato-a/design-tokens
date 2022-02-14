@@ -449,9 +449,9 @@
       "name": "04 UI/01 Outlined/02 Fill/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.00000",
-        "blue": "0.00000",
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
         "alpha": "0"
       }
     },
@@ -501,9 +501,9 @@
       "name": "04 UI/01 Outlined/02 Fill/05 Disabled",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.00000",
-        "blue": "0.00000",
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
         "alpha": "0"
       }
     },
@@ -628,7 +628,7 @@
       "__uuid": "734DFCD6-3524-4A00-B68D-2A9017344769",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/04 General/01 Base",
+      "name": "04 UI/04 Additional/01 Base",
       "value": {
         "_class": "color",
         "red": "1.00000",
@@ -641,7 +641,7 @@
       "__uuid": "DF0E39CC-9973-4933-9B49-26A54F0611D4",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/04 General/02 Subtle",
+      "name": "04 UI/04 Additional/02 Subtle",
       "value": {
         "_class": "color",
         "red": "0.90588",
@@ -654,7 +654,7 @@
       "__uuid": "0F299A1C-BF09-4B15-8576-EAC89E8D99D2",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/04 General/03 Light",
+      "name": "04 UI/04 Additional/03 Light",
       "value": {
         "_class": "color",
         "red": "0.72941",
@@ -667,7 +667,7 @@
       "__uuid": "F18E176F-AB2F-48D7-8378-E6F557059900",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/04 General/04 Regular",
+      "name": "04 UI/04 Additional/04 Regular",
       "value": {
         "_class": "color",
         "red": "0.53725",
@@ -680,7 +680,7 @@
       "__uuid": "13915817-6F97-47A2-B4A7-28942FFCA43B",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/04 General/05 Strong",
+      "name": "04 UI/04 Additional/05 Strong",
       "value": {
         "_class": "color",
         "red": "0.29020",
@@ -693,7 +693,7 @@
       "__uuid": "133132DA-8CA9-4E1A-857B-35A637A7BFC4",
       "_class": "swatch",
       "do_objectID": "",
-      "name": "04 UI/04 General/06 Extra Strong",
+      "name": "04 UI/04 Additional/06 Extra Strong",
       "value": {
         "_class": "color",
         "red": "0.01961",
