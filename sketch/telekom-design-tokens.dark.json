@@ -618,9 +618,9 @@
       "name": "04 UI/03 Solid/04 Disabled",
       "value": {
         "_class": "color",
-        "red": "0.72941",
-        "green": "0.73725",
-        "blue": "0.74902",
+        "red": "0.21961",
+        "green": "0.22353",
+        "blue": "0.23137",
         "alpha": "1"
       }
     },
