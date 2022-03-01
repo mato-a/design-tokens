@@ -267,9 +267,9 @@
       "name": "02 Background/01 Canvas",
       "value": {
         "_class": "color",
-        "red": "0.01961",
-        "green": "0.01961",
-        "blue": "0.01961",
+        "red": "0.00000",
+        "green": "0.00000",
+        "blue": "0.00000",
         "alpha": "1"
       }
     },
@@ -280,9 +280,9 @@
       "name": "02 Background/02 Canvas Subtle",
       "value": {
         "_class": "color",
-        "red": "0.08627",
-        "green": "0.08627",
-        "blue": "0.09020",
+        "red": "0.05490",
+        "green": "0.05490",
+        "blue": "0.05882",
         "alpha": "1"
       }
     },
@@ -306,9 +306,9 @@
       "name": "02 Background/04 Surface",
       "value": {
         "_class": "color",
-        "red": "0.15294",
-        "green": "0.15294",
-        "blue": "0.16078",
+        "red": "0.10980",
+        "green": "0.10980",
+        "blue": "0.11765",
         "alpha": "1"
       }
     },
@@ -319,9 +319,9 @@
       "name": "02 Background/05 Surface Subtle",
       "value": {
         "_class": "color",
-        "red": "0.21961",
-        "green": "0.22353",
-        "blue": "0.23137",
+        "red": "0.14118",
+        "green": "0.14118",
+        "blue": "0.14902",
         "alpha": "1"
       }
     },
@@ -332,9 +332,9 @@
       "name": "02 Background/06 Surface Highlight",
       "value": {
         "_class": "color",
-        "red": "0.29020",
-        "green": "0.29412",
-        "blue": "0.30196",
+        "red": "0.28235",
+        "green": "0.28235",
+        "blue": "0.29412",
         "alpha": "1"
       }
     },
@@ -387,7 +387,7 @@
         "red": "1.00000",
         "green": "1.00000",
         "blue": "1.00000",
-        "alpha": "0.36"
+        "alpha": "0.4"
       }
     },
     {
@@ -579,9 +579,9 @@
       "name": "04 UI/03 Solid/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.53725",
-        "green": "0.54510",
-        "blue": "0.56078",
+        "red": "0.39608",
+        "green": "0.39608",
+        "blue": "0.41176",
         "alpha": "1"
       }
     },
@@ -592,9 +592,9 @@
       "name": "04 UI/03 Solid/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.29020",
-        "green": "0.29412",
-        "blue": "0.30196",
+        "red": "0.22353",
+        "green": "0.22353",
+        "blue": "0.23529",
         "alpha": "1"
       }
     },
@@ -605,9 +605,9 @@
       "name": "04 UI/03 Solid/03 Pressed",
       "value": {
         "_class": "color",
-        "red": "0.01961",
-        "green": "0.01961",
-        "blue": "0.01961",
+        "red": "0.10980",
+        "green": "0.10980",
+        "blue": "0.11765",
         "alpha": "1"
       }
     },
@@ -618,9 +618,9 @@
       "name": "04 UI/03 Solid/04 Disabled",
       "value": {
         "_class": "color",
-        "red": "0.21961",
+        "red": "0.22353",
         "green": "0.22353",
-        "blue": "0.23137",
+        "blue": "0.23529",
         "alpha": "1"
       }
     },
@@ -631,9 +631,9 @@
       "name": "04 UI/04 Additional/01 Base",
       "value": {
         "_class": "color",
-        "red": "0.21961",
-        "green": "0.22353",
-        "blue": "0.23137",
+        "red": "0.51373",
+        "green": "0.51373",
+        "blue": "0.52941",
         "alpha": "1"
       }
     },
@@ -644,9 +644,9 @@
       "name": "04 UI/04 Additional/02 Subtle",
       "value": {
         "_class": "color",
-        "red": "0.15294",
-        "green": "0.15294",
-        "blue": "0.16078",
+        "red": "0.10980",
+        "green": "0.10980",
+        "blue": "0.11765",
         "alpha": "1"
       }
     },
@@ -657,9 +657,9 @@
       "name": "04 UI/04 Additional/03 Light",
       "value": {
         "_class": "color",
-        "red": "0.21961",
+        "red": "0.22353",
         "green": "0.22353",
-        "blue": "0.23137",
+        "blue": "0.23529",
         "alpha": "1"
       }
     },
@@ -670,9 +670,9 @@
       "name": "04 UI/04 Additional/04 Regular",
       "value": {
         "_class": "color",
-        "red": "0.36471",
-        "green": "0.37255",
-        "blue": "0.38039",
+        "red": "0.39608",
+        "green": "0.39608",
+        "blue": "0.41176",
         "alpha": "1"
       }
     },
@@ -683,9 +683,9 @@
       "name": "04 UI/04 Additional/05 Strong",
       "value": {
         "_class": "color",
-        "red": "0.53725",
-        "green": "0.54510",
-        "blue": "0.56078",
+        "red": "0.57255",
+        "green": "0.57255",
+        "blue": "0.58824",
         "alpha": "1"
       }
     },
@@ -696,9 +696,9 @@
       "name": "04 UI/04 Additional/06 Extra Strong",
       "value": {
         "_class": "color",
-        "red": "0.94118",
-        "green": "0.94510",
-        "blue": "0.94510",
+        "red": "0.93725",
+        "green": "0.93725",
+        "blue": "0.94118",
         "alpha": "1"
       }
     },
@@ -930,9 +930,9 @@
       "name": "05 Functional/06 Danger/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.61176",
+        "red": "0.75686",
         "green": "0.00000",
-        "blue": "0.09412",
+        "blue": "0.10980",
         "alpha": "1"
       }
     },
@@ -943,9 +943,9 @@
       "name": "05 Functional/06 Danger/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.75686",
+        "red": "0.90196",
         "green": "0.00000",
-        "blue": "0.10980",
+        "blue": "0.12941",
         "alpha": "1"
       }
     },
@@ -956,9 +956,9 @@
       "name": "05 Functional/06 Danger/03 Pressed",
       "value": {
         "_class": "color",
-        "red": "0.90196",
-        "green": "0.00000",
-        "blue": "0.12941",
+        "red": "0.99608",
+        "green": "0.27059",
+        "blue": "0.26275",
         "alpha": "1"
       }
     },
@@ -1910,630 +1910,6 @@
         "blue": "0.00000",
         "alpha": "1"
       }
-    },
-    {
-      "__uuid": "F77B6D6A-312C-45FD-8E3C-7E94DA32EA2F",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/01 0",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "0.93333",
-        "blue": "0.86667",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "B1DB2254-0CF9-4104-B144-47FDBDA32280",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/02 100",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "0.89020",
-        "blue": "0.78824",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "684E3440-05FF-4E68-8FC4-789F316B4787",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/03 200",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "0.78824",
-        "blue": "0.59608",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "64CED13D-3A00-4B3D-A26E-698D4C33C551",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/04 300",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "0.64706",
-        "blue": "0.33725",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "E96D18FD-E3B7-4524-91BF-6FFBF040E576",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/05 400",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "0.49804",
-        "blue": "0.12157",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "BD3157D6-1102-44A4-8304-185B1E0B1A25",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/06 500",
-      "value": {
-        "_class": "color",
-        "red": "0.88627",
-        "green": "0.40000",
-        "blue": "0.09020",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "FFDE93FC-37BD-484A-8F78-C43D9E1F100B",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/07 600",
-      "value": {
-        "_class": "color",
-        "red": "0.73333",
-        "green": "0.32549",
-        "blue": "0.07451",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "575B92BF-0C26-4802-8673-3AA60D30D85C",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/08 700",
-      "value": {
-        "_class": "color",
-        "red": "0.61176",
-        "green": "0.26667",
-        "blue": "0.06275",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "5DD27622-883E-4863-BE9C-A81A34B1C8A5",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/09 800",
-      "value": {
-        "_class": "color",
-        "red": "0.49412",
-        "green": "0.21176",
-        "blue": "0.04706",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "6015A791-244A-410C-B4A9-5EF04B0733EC",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/10 900",
-      "value": {
-        "_class": "color",
-        "red": "0.37647",
-        "green": "0.16078",
-        "blue": "0.03922",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "62C02C1C-29CB-44C0-A1FE-E9CB6FDD47DC",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/11 Tint",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "0.96471",
-        "blue": "0.94118",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "8717ABB7-CC23-4B37-A672-C0CF487FE873",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/07 Orange/12 Shade",
-      "value": {
-        "_class": "color",
-        "red": "0.20000",
-        "green": "0.08627",
-        "blue": "0.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "F869273F-5A0A-4454-AB28-F49F1368085F",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/01 0",
-      "value": {
-        "_class": "color",
-        "red": "0.99608",
-        "green": "0.92941",
-        "blue": "0.92157",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "8E8C6036-41E8-4F61-8A57-3BDF5A77650E",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/02 100",
-      "value": {
-        "_class": "color",
-        "red": "0.99608",
-        "green": "0.88627",
-        "blue": "0.87451",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "578B0D2F-9657-4637-B4AD-FD7730D04FED",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/03 200",
-      "value": {
-        "_class": "color",
-        "red": "0.99608",
-        "green": "0.78431",
-        "blue": "0.76078",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "7508F77D-FAC7-430B-AC83-E1D97333ACC1",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/04 300",
-      "value": {
-        "_class": "color",
-        "red": "0.99216",
-        "green": "0.64314",
-        "blue": "0.61569",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "2E03CE53-6588-4F4D-874D-16FE39DC98B9",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/05 400",
-      "value": {
-        "_class": "color",
-        "red": "0.99216",
-        "green": "0.50588",
-        "blue": "0.47843",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "9E5D3202-B386-48C6-8D1B-F5312982E0F6",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/06 500",
-      "value": {
-        "_class": "color",
-        "red": "0.99608",
-        "green": "0.27059",
-        "blue": "0.26275",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "48601697-CD55-420F-91AB-9AAE225A65EA",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/07 600",
-      "value": {
-        "_class": "color",
-        "red": "0.90196",
-        "green": "0.00000",
-        "blue": "0.12941",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "B2C1BA5E-7085-4C57-8B37-B79E975CA494",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/08 700",
-      "value": {
-        "_class": "color",
-        "red": "0.75686",
-        "green": "0.00000",
-        "blue": "0.10980",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "2BC8B857-25DC-4F46-9121-533D14C0CC0A",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/09 800",
-      "value": {
-        "_class": "color",
-        "red": "0.61176",
-        "green": "0.00000",
-        "blue": "0.09412",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "15165310-4C2D-4044-A3A3-E14E81165FDB",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/10 900",
-      "value": {
-        "_class": "color",
-        "red": "0.47059",
-        "green": "0.00784",
-        "blue": "0.07843",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "BEF455CA-1818-49CD-8254-031C2D0C8FE4",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/11 Tint",
-      "value": {
-        "_class": "color",
-        "red": "1.00000",
-        "green": "0.94118",
-        "blue": "0.94902",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "8D9894BF-6BC4-4BDB-B25D-6AB5A3149E85",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/08 Red/12 Shade",
-      "value": {
-        "_class": "color",
-        "red": "0.20000",
-        "green": "0.00000",
-        "blue": "0.03137",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "BDDAE970-37B9-4BF7-A514-D4C96189B9B4",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/01 0",
-      "value": {
-        "_class": "color",
-        "red": "0.90588",
-        "green": "0.94902",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "BA228222-8247-4139-858A-0D8C4587CE91",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/02 100",
-      "value": {
-        "_class": "color",
-        "red": "0.84706",
-        "green": "0.91765",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "833755B2-08AB-4715-B837-3783BCE3D430",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/03 200",
-      "value": {
-        "_class": "color",
-        "red": "0.71373",
-        "green": "0.84314",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "16D34CE7-A1BA-4D67-9634-F57861F515D1",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/04 300",
-      "value": {
-        "_class": "color",
-        "red": "0.53725",
-        "green": "0.74902",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "8F32651E-B4A5-4168-8F07-6FFFA5629686",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/05 400",
-      "value": {
-        "_class": "color",
-        "red": "0.37647",
-        "green": "0.66275",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "ABE4855C-3632-44DD-9528-AD445D5AECA8",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/06 500",
-      "value": {
-        "_class": "color",
-        "red": "0.14902",
-        "green": "0.54118",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "55FF744C-0172-438E-8227-4170CEA234B6",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/07 600",
-      "value": {
-        "_class": "color",
-        "red": "0.00000",
-        "green": "0.42353",
-        "blue": "0.92549",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "6BCE2220-DCD4-4231-9792-4CFAFCDF853B",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/08 700",
-      "value": {
-        "_class": "color",
-        "red": "0.00000",
-        "green": "0.35294",
-        "blue": "0.76863",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "5E1A2CD0-A157-43BE-A87F-970448F9FD10",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/09 800",
-      "value": {
-        "_class": "color",
-        "red": "0.00000",
-        "green": "0.28235",
-        "blue": "0.61569",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "A1502BA4-8287-4B72-AC0B-E214F3548D27",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/10 900",
-      "value": {
-        "_class": "color",
-        "red": "0.00000",
-        "green": "0.21569",
-        "blue": "0.47059",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "90712967-CEEA-4EE6-8AE6-FD2657908FAA",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/11 Tint",
-      "value": {
-        "_class": "color",
-        "red": "0.94118",
-        "green": "0.96863",
-        "blue": "1.00000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "2E39DD20-2C1A-43BB-973B-2EC436C2A476",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/09 Blue/12 Shade",
-      "value": {
-        "_class": "color",
-        "red": "0.00000",
-        "green": "0.09020",
-        "blue": "0.20000",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "6D53A5FB-BDE9-4975-9274-15F8349619C4",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/01 0",
-      "value": {
-        "_class": "color",
-        "red": "0.85490",
-        "green": "0.97255",
-        "blue": "0.90980",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "2FC180B0-E98F-49EB-923C-B27A7D4EF1EC",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/02 100",
-      "value": {
-        "_class": "color",
-        "red": "0.76078",
-        "green": "0.95294",
-        "blue": "0.85490",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "F3916876-9A4A-4288-84F8-F901A9CD76E3",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/03 200",
-      "value": {
-        "_class": "color",
-        "red": "0.52941",
-        "green": "0.90588",
-        "blue": "0.71765",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "223F8178-9426-4708-97B3-202A1BFF115F",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/04 300",
-      "value": {
-        "_class": "color",
-        "red": "0.17255",
-        "green": "0.83529",
-        "blue": "0.50196",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "04C2B2E3-3EB0-458A-AEE3-D07E00F532E4",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/05 400",
-      "value": {
-        "_class": "color",
-        "red": "0.07451",
-        "green": "0.74510",
-        "blue": "0.40784",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "0346ABB7-08C2-4436-96DB-2BD681D778CF",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/06 500",
-      "value": {
-        "_class": "color",
-        "red": "0.06275",
-        "green": "0.62353",
-        "blue": "0.34118",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "6A000F31-0583-41AE-9649-DAF4C3115E2A",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/07 600",
-      "value": {
-        "_class": "color",
-        "red": "0.05098",
-        "green": "0.51373",
-        "blue": "0.27843",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "75BA30B5-15D5-459B-A862-FFD03A7B8C63",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/08 700",
-      "value": {
-        "_class": "color",
-        "red": "0.04314",
-        "green": "0.42745",
-        "blue": "0.23137",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "9EED6BD7-0E3F-48C5-BD99-332826E4A403",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/09 800",
-      "value": {
-        "_class": "color",
-        "red": "0.03529",
-        "green": "0.34118",
-        "blue": "0.18431",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "B9B0119B-F79C-4CA5-98E5-0F22E90DC751",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/10 900",
-      "value": {
-        "_class": "color",
-        "red": "0.02745",
-        "green": "0.25882",
-        "blue": "0.14118",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "948B22B5-9483-4588-A3B2-A05C5906BD34",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/11 Tint",
-      "value": {
-        "_class": "color",
-        "red": "0.94118",
-        "green": "1.00000",
-        "blue": "0.96863",
-        "alpha": "1"
-      }
-    },
-    {
-      "__uuid": "E748F006-C0C9-4017-AD45-2EE20B9CAEBD",
-      "_class": "swatch",
-      "do_objectID": "",
-      "name": "06 Additional/10 Green/12 Shade",
-      "value": {
-        "_class": "color",
-        "red": "0.00000",
-        "green": "0.20000",
-        "blue": "0.09804",
-        "alpha": "1"
-      }
     }
   ],
   "textStyles": [
@@ -2693,7 +2069,7 @@
       }
     },
     {
-      "__uuid": "91ECDD79-EEA6-4D39-93CC-361015158FEF",
+      "__uuid": "92541698-8672-4C85-AAB0-86351E764C2B",
       "name": "06 Body",
       "textStyle": {
         "_class": "textStyle",
@@ -2724,7 +2100,7 @@
       }
     },
     {
-      "__uuid": "130260DA-C045-4CE4-923B-0D5B7A6CCF01",
+      "__uuid": "49D6E98C-44BF-4A65-926F-CCFE5DE97316",
       "name": "07 Body Bold",
       "textStyle": {
         "_class": "textStyle",
@@ -2755,7 +2131,7 @@
       }
     },
     {
-      "__uuid": "6B1645C6-D53D-40CB-B676-4DB2C26645E1",
+      "__uuid": "2E31A03E-5CDB-4495-B752-BE528887F9FA",
       "name": "08 UI",
       "textStyle": {
         "_class": "textStyle",
@@ -2786,7 +2162,7 @@
       }
     },
     {
-      "__uuid": "63992AE0-2315-47E2-ACD9-ADBFC22A8FD4",
+      "__uuid": "5952B8E0-E671-4FD7-B5E9-F7B35994A568",
       "name": "09 UI Bold",
       "textStyle": {
         "_class": "textStyle",
@@ -2817,7 +2193,7 @@
       }
     },
     {
-      "__uuid": "BE8186B1-3F4C-4A9B-916D-B1C059C45037",
+      "__uuid": "D6365CF0-2671-4374-BD8E-6E1C2D2D29BF",
       "name": "10 Callout",
       "textStyle": {
         "_class": "textStyle",
@@ -2848,7 +2224,7 @@
       }
     },
     {
-      "__uuid": "219C7C48-AB44-4A4C-8CF0-235965A88DFC",
+      "__uuid": "96B71BB7-4924-450B-A090-42C83C066BB1",
       "name": "11 Heading 6",
       "textStyle": {
         "_class": "textStyle",
@@ -2879,7 +2255,7 @@
       }
     },
     {
-      "__uuid": "9D9544F0-E471-406A-83D2-60C41395F418",
+      "__uuid": "29E0191D-BA8D-41CE-B777-84F16EBE07CC",
       "name": "12 Heading 5",
       "textStyle": {
         "_class": "textStyle",
@@ -2910,7 +2286,7 @@
       }
     },
     {
-      "__uuid": "E311C2AB-93B6-44CE-BD95-BD3216BFA02F",
+      "__uuid": "DCA48C57-DA5C-4B2A-825F-82C7E28955FD",
       "name": "13 Heading 4",
       "textStyle": {
         "_class": "textStyle",
@@ -2941,7 +2317,7 @@
       }
     },
     {
-      "__uuid": "7BCC0E57-52DF-441A-974A-2D9EC4CB3CEB",
+      "__uuid": "09380335-83C1-4B0B-BBAB-EE2194F83C67",
       "name": "14 Heading 3",
       "textStyle": {
         "_class": "textStyle",
@@ -2972,7 +2348,7 @@
       }
     },
     {
-      "__uuid": "C496AE76-7493-4FA5-99F1-F17A3F63114C",
+      "__uuid": "F40BF846-4438-4B29-BADD-1A536C109E73",
       "name": "15 Heading 2",
       "textStyle": {
         "_class": "textStyle",
@@ -3003,7 +2379,7 @@
       }
     },
     {
-      "__uuid": "D68030AA-0788-4944-9B55-6A67A7D90CE6",
+      "__uuid": "748B5B13-3227-4C2F-89BC-A2E273E6727E",
       "name": "16 Heading 1",
       "textStyle": {
         "_class": "textStyle",
