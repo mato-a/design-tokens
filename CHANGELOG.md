@@ -1,8 +1,33 @@
 # Change Log - @telekom/design-tokens
 
-This log was last generated on Mon, 14 Feb 2022 11:23:17 GMT and should not be manually modified.
+This log was last generated on Tue, 01 Mar 2022 08:24:56 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0-alpha.11
+
+Tue, 01 Mar 2022 08:24:56 GMT
+
+### Changes
+
+- Update Sketch uuids for Text Styles to match legacy library (ac@iconstorm.com)
+- Remove orange, red, blue, green from additional colors (felix.weber@iconstorm.de)
+
+## 1.0.0-alpha.10
+
+Fri, 25 Feb 2022 14:18:54 GMT
+
+### Changes
+
+- Extend grey scale, update values for background, ui/solid, ui/additional (ac@iconstorm.com)
+
+## 1.0.0-alpha.9
+
+Thu, 17 Feb 2022 14:39:01 GMT
+
+### Changes
+
+- Fix value for ui/solid/disabled.dark (grey.100 -> grey.900) (ac@iconstorm.com)
 
 ## 1.0.0-alpha.8
 
