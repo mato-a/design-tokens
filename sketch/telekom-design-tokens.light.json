@@ -46,9 +46,9 @@
       "name": "01 Text & Icon/04 Link/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.35294",
-        "blue": "0.76863",
+        "red": "0.10980",
+        "green": "0.25490",
+        "blue": "0.92157",
         "alpha": "1"
       }
     },
@@ -59,9 +59,9 @@
       "name": "01 Text & Icon/04 Link/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.28235",
-        "blue": "0.61569",
+        "red": "0.06275",
+        "green": "0.20784",
+        "blue": "0.89020",
         "alpha": "1"
       }
     },
@@ -85,9 +85,9 @@
       "name": "01 Text & Icon/04 Link/04 Active",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.21569",
-        "blue": "0.47059",
+        "red": "0.03137",
+        "green": "0.17255",
+        "blue": "0.85882",
         "alpha": "1"
       }
     },
@@ -215,9 +215,9 @@
       "name": "01 Text & Icon/09 Functional/01 Informational",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.35294",
-        "blue": "0.76863",
+        "red": "0.10980",
+        "green": "0.25490",
+        "blue": "0.92157",
         "alpha": "1"
       }
     },
@@ -228,9 +228,9 @@
       "name": "01 Text & Icon/09 Functional/02 Success",
       "value": {
         "_class": "color",
-        "red": "0.03529",
-        "green": "0.34118",
-        "blue": "0.18431",
+        "red": "0.00000",
+        "green": "0.50196",
+        "blue": "0.31373",
         "alpha": "1"
       }
     },
@@ -241,9 +241,9 @@
       "name": "01 Text & Icon/09 Functional/03 Danger",
       "value": {
         "_class": "color",
-        "red": "0.90196",
-        "green": "0.00000",
-        "blue": "0.12941",
+        "red": "0.85490",
+        "green": "0.04706",
+        "blue": "0.09804",
         "alpha": "1"
       }
     },
@@ -254,9 +254,9 @@
       "name": "01 Text & Icon/09 Functional/04 Warning",
       "value": {
         "_class": "color",
-        "red": "0.73333",
-        "green": "0.32549",
-        "blue": "0.07451",
+        "red": "0.82353",
+        "green": "0.25490",
+        "blue": "0.00784",
         "alpha": "1"
       }
     },
@@ -709,9 +709,9 @@
       "name": "05 Functional/01 Focus",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.42353",
-        "blue": "0.92549",
+        "red": "0.10980",
+        "green": "0.25490",
+        "blue": "0.92157",
         "alpha": "1"
       }
     },
@@ -722,9 +722,9 @@
       "name": "05 Functional/02 Success/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.05098",
-        "green": "0.51373",
-        "blue": "0.27843",
+        "red": "0.00000",
+        "green": "0.66667",
+        "blue": "0.39608",
         "alpha": "1"
       }
     },
@@ -735,9 +735,9 @@
       "name": "05 Functional/02 Success/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.04314",
-        "green": "0.42745",
-        "blue": "0.23137",
+        "red": "0.00000",
+        "green": "0.61176",
+        "blue": "0.36863",
         "alpha": "1"
       }
     },
@@ -748,9 +748,9 @@
       "name": "05 Functional/02 Success/03 Pressed",
       "value": {
         "_class": "color",
-        "red": "0.03529",
-        "green": "0.34118",
-        "blue": "0.18431",
+        "red": "0.00000",
+        "green": "0.55686",
+        "blue": "0.34118",
         "alpha": "1"
       }
     },
@@ -761,8 +761,8 @@
       "name": "05 Functional/02 Success/04 Subtle",
       "value": {
         "_class": "color",
-        "red": "0.94118",
-        "green": "1.00000",
+        "red": "0.94902",
+        "green": "0.98431",
         "blue": "0.96863",
         "alpha": "1"
       }
@@ -774,9 +774,9 @@
       "name": "05 Functional/03 Interaction/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.42353",
-        "blue": "0.92549",
+        "red": "0.10980",
+        "green": "0.25490",
+        "blue": "0.92157",
         "alpha": "1"
       }
     },
@@ -787,9 +787,9 @@
       "name": "05 Functional/03 Interaction/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.35294",
-        "blue": "0.76863",
+        "red": "0.06275",
+        "green": "0.20784",
+        "blue": "0.89020",
         "alpha": "1"
       }
     },
@@ -800,9 +800,9 @@
       "name": "05 Functional/03 Interaction/03 Pressed",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.28235",
-        "blue": "0.61569",
+        "red": "0.03137",
+        "green": "0.17255",
+        "blue": "0.85882",
         "alpha": "1"
       }
     },
@@ -813,9 +813,9 @@
       "name": "05 Functional/03 Interaction/04 Subtle",
       "value": {
         "_class": "color",
-        "red": "0.94118",
-        "green": "0.96863",
-        "blue": "1.00000",
+        "red": "0.95686",
+        "green": "0.96471",
+        "blue": "0.99608",
         "alpha": "1"
       }
     },
@@ -826,9 +826,9 @@
       "name": "05 Functional/04 Informational/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.42353",
-        "blue": "0.92549",
+        "red": "0.10980",
+        "green": "0.25490",
+        "blue": "0.92157",
         "alpha": "1"
       }
     },
@@ -839,9 +839,9 @@
       "name": "05 Functional/04 Informational/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.35294",
-        "blue": "0.76863",
+        "red": "0.06275",
+        "green": "0.20784",
+        "blue": "0.89020",
         "alpha": "1"
       }
     },
@@ -852,9 +852,9 @@
       "name": "05 Functional/04 Informational/03 Pressed",
       "value": {
         "_class": "color",
-        "red": "0.00000",
-        "green": "0.28235",
-        "blue": "0.61569",
+        "red": "0.03137",
+        "green": "0.17255",
+        "blue": "0.85882",
         "alpha": "1"
       }
     },
@@ -865,9 +865,9 @@
       "name": "05 Functional/04 Informational/04 Subtle",
       "value": {
         "_class": "color",
-        "red": "0.94118",
-        "green": "0.96863",
-        "blue": "1.00000",
+        "red": "0.95686",
+        "green": "0.96471",
+        "blue": "0.99608",
         "alpha": "1"
       }
     },
@@ -878,9 +878,9 @@
       "name": "05 Functional/05 Warning/01 Standard",
       "value": {
         "_class": "color",
-        "red": "1.00000",
-        "green": "0.49804",
-        "blue": "0.12157",
+        "red": "0.94510",
+        "green": "0.36471",
+        "blue": "0.05490",
         "alpha": "1"
       }
     },
@@ -891,9 +891,9 @@
       "name": "05 Functional/05 Warning/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.88627",
-        "green": "0.40000",
-        "blue": "0.09020",
+        "red": "0.90980",
+        "green": "0.31373",
+        "blue": "0.02745",
         "alpha": "1"
       }
     },
@@ -904,9 +904,9 @@
       "name": "05 Functional/05 Warning/03 Pressed",
       "value": {
         "_class": "color",
-        "red": "0.73333",
-        "green": "0.32549",
-        "blue": "0.07451",
+        "red": "0.82353",
+        "green": "0.25490",
+        "blue": "0.00784",
         "alpha": "1"
       }
     },
@@ -917,9 +917,9 @@
       "name": "05 Functional/05 Warning/04 Subtle",
       "value": {
         "_class": "color",
-        "red": "1.00000",
-        "green": "0.96471",
-        "blue": "0.94118",
+        "red": "0.99608",
+        "green": "0.96863",
+        "blue": "0.95294",
         "alpha": "1"
       }
     },
@@ -930,9 +930,9 @@
       "name": "05 Functional/06 Danger/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.90196",
-        "green": "0.00000",
-        "blue": "0.12941",
+        "red": "0.85490",
+        "green": "0.04706",
+        "blue": "0.09804",
         "alpha": "1"
       }
     },
@@ -943,9 +943,9 @@
       "name": "05 Functional/06 Danger/02 Hovered",
       "value": {
         "_class": "color",
-        "red": "0.75686",
-        "green": "0.00000",
-        "blue": "0.10980",
+        "red": "0.80000",
+        "green": "0.02353",
+        "blue": "0.05882",
         "alpha": "1"
       }
     },
@@ -956,9 +956,9 @@
       "name": "05 Functional/06 Danger/03 Pressed",
       "value": {
         "_class": "color",
-        "red": "0.61176",
-        "green": "0.00000",
-        "blue": "0.09412",
+        "red": "0.67059",
+        "green": "0.00784",
+        "blue": "0.03137",
         "alpha": "1"
       }
     },
@@ -969,9 +969,9 @@
       "name": "05 Functional/06 Danger/04 Subtle",
       "value": {
         "_class": "color",
-        "red": "1.00000",
-        "green": "0.94118",
-        "blue": "0.94902",
+        "red": "0.99216",
+        "green": "0.95294",
+        "blue": "0.95294",
         "alpha": "1"
       }
     },
