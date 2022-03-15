@@ -631,9 +631,9 @@
       "name": "04 UI/04 Additional/01 Base",
       "value": {
         "_class": "color",
-        "red": "0.51373",
-        "green": "0.51373",
-        "blue": "0.52941",
+        "red": "1.00000",
+        "green": "1.00000",
+        "blue": "1.00000",
         "alpha": "1"
       }
     },
