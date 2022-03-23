@@ -1936,8 +1936,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 13,
-            "minimumLineHeight": 13
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           },
           "kerning": 0
         },
@@ -2029,8 +2029,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 19,
-            "minimumLineHeight": 19
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "kerning": 0
         },
@@ -2060,8 +2060,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 19,
-            "minimumLineHeight": 19
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "kerning": 0
         },
@@ -2194,7 +2194,7 @@
     },
     {
       "__uuid": "D6365CF0-2671-4374-BD8E-6E1C2D2D29BF",
-      "name": "10 Callout",
+      "name": "10 Lead Text",
       "textStyle": {
         "_class": "textStyle",
         "encodedAttributes": {
@@ -2215,8 +2215,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 27,
-            "minimumLineHeight": 27
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           },
           "kerning": 0
         },
@@ -2277,8 +2277,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 27,
-            "minimumLineHeight": 27
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           },
           "kerning": 0
         },
@@ -2339,8 +2339,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 43,
-            "minimumLineHeight": 43
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40
           },
           "kerning": 0
         },
@@ -2370,8 +2370,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 53,
-            "minimumLineHeight": 53
+            "maximumLineHeight": 48,
+            "minimumLineHeight": 48
           },
           "kerning": 0
         },
@@ -2401,8 +2401,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 62,
-            "minimumLineHeight": 62
+            "maximumLineHeight": 65,
+            "minimumLineHeight": 65
           },
           "kerning": 0
         },
