@@ -46,9 +46,9 @@
       "name": "01 Text & Icon/04 Link/01 Standard",
       "value": {
         "_class": "color",
-        "red": "0.10980",
-        "green": "0.25490",
-        "blue": "0.92157",
+        "red": "0.17255",
+        "green": "0.31765",
+        "blue": "0.94510",
         "alpha": "1"
       }
     },
@@ -85,9 +85,9 @@
       "name": "01 Text & Icon/04 Link/04 Active",
       "value": {
         "_class": "color",
-        "red": "0.03137",
-        "green": "0.17255",
-        "blue": "0.85882",
+        "red": "0.00000",
+        "green": "0.13333",
+        "blue": "0.78824",
         "alpha": "1"
       }
     },
