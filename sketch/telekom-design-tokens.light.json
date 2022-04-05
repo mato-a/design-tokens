@@ -813,9 +813,9 @@
       "name": "05 Functional/03 Interaction/04 Subtle",
       "value": {
         "_class": "color",
-        "red": "0.95686",
-        "green": "0.96471",
-        "blue": "0.99608",
+        "red": "0.03137",
+        "green": "0.06667",
+        "blue": "0.22745",
         "alpha": "1"
       }
     },
@@ -865,9 +865,9 @@
       "name": "05 Functional/04 Informational/04 Subtle",
       "value": {
         "_class": "color",
-        "red": "0.95686",
-        "green": "0.96471",
-        "blue": "0.99608",
+        "red": "0.03137",
+        "green": "0.06667",
+        "blue": "0.22745",
         "alpha": "1"
       }
     },
